@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00FFD1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Lives%20In-Varanasi%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Building%20Something%20Cool-FFD700?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 </div>
 
@@ -25,6 +26,7 @@
 ```python
 class KrityamSingh:
     def __init__(self):
+        self.os         = "Kali Linux 🐉"
         self.name       = "Krityam Singh"
         self.role       = "AI Developer & Student"
         self.location   = "Varanasi, India 🇮🇳"
