@@ -1,6 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00FFD1,50:0066FF,100:FF6B6B&height=160&section=header&text=krityam.singh&fontSize=55&fontColor=fff&animation=blinking&fontAlignY=55&stroke=00FFD1&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Krityam%20Singh&fontSize=55&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=⚡%20AI%20Engineer%20in%20the%20Making%20⚡&descAlignY=58&descSize=20" width="100%"/>
+
+<svg width="800" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.3"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#00FFD1" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.3">
+        <animate attributeName="offset" values="1;1;0.6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-800 0;800 0;-800 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFD1"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#00FFD1"/>
+    </linearGradient>
+    <clipPath id="textClip">
+      <text x="400" y="72" font-family="'Segoe UI', Arial, sans-serif" font-size="70" font-weight="900" text-anchor="middle">Krityam Singh</text>
+    </clipPath>
+  </defs>
+  <rect width="800" height="90" fill="none"/>
+  <text x="400" y="72" font-family="'Segoe UI', Arial, sans-serif" font-size="70" font-weight="900" text-anchor="middle" fill="url(#textGrad)" opacity="0.15">Krityam Singh</text>
+  <text x="400" y="72" font-family="'Segoe UI', Arial, sans-serif" font-size="70" font-weight="900" text-anchor="middle" fill="#c0c0c0">Krityam Singh</text>
+  <rect width="800" height="90" fill="url(#shine)" clip-path="url(#textClip)"/>
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1800&pause=600&color=00FFD1&center=true&vCenter=true&width=800&lines=⚡+AI+Engineer+in+the+Making+⚡;🧠+Deep+Learning+%7C+Keras+%7C+TensorFlow;🐉+Kali+Linux+User;🤖+Building+Things+That+Actually+Think;📊+NumPy+%26+Pandas+Every+Single+Day;🚀+62+repos+%26+still+going..." alt="Typing SVG" />
 
