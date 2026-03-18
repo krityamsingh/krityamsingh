@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Krityam%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20AI%20Engineer%20in%20the%20Making%20⚡&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00FFD1,50:0066FF,100:FF6B6B&height=160&section=header&text=krityam.singh&fontSize=55&fontColor=fff&animation=blinking&fontAlignY=55&stroke=00FFD1&strokeWidth=3" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=🤖+Building+AI+that+actually+thinks...;🧬+Deep+Learning+%7C+Keras+%7C+TensorFlow;📊+Wrangling+data+with+NumPy+%26+Pandas;🧠+Neural+Networks+are+my+playground;🌐+JavaScript+noob+%E2%86%92+Full+Stack+AI+Dev+soon;🚀+62+repos+and+counting..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1800&pause=600&color=00FFD1&center=true&vCenter=true&width=800&lines=⚡+AI+Engineer+in+the+Making+⚡;🧠+Deep+Learning+%7C+Keras+%7C+TensorFlow;🐉+Kali+Linux+User;🤖+Building+Things+That+Actually+Think;📊+NumPy+%26+Pandas+Every+Single+Day;🚀+62+repos+%26+still+going..." alt="Typing SVG" />
 
 <br/>
 
