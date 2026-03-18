@@ -1,29 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krityam%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Krityam%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20AI%20Engineer%20in%20the%20Making%20⚡&descAlignY=60&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Krityam+👋;Building+AI+from+scratch+🤖;NumPy+%7C+Pandas+%7C+Keras+%7C+TensorFlow;Turning+data+into+intelligence+🧠;Student+%7C+Builder+%7C+Explorer+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=🤖+Building+AI+that+actually+thinks...;🧬+Deep+Learning+%7C+Keras+%7C+TensorFlow;📊+Wrangling+data+with+NumPy+%26+Pandas;🧠+Neural+Networks+are+my+playground;🌐+JavaScript+noob+%E2%86%92+Full+Stack+AI+Dev+soon;🚀+62+repos+and+counting..." alt="Typing SVG" />
 
 <br/>
 
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krityamsingh.krityamsingh&left_color=blueviolet&right_color=blue)](https://github.com/krityamsingh)
-[![GitHub followers](https://img.shields.io/github/followers/krityamsingh?label=Followers&style=social)](https://github.com/krityamsingh)
+![Snake animation](https://github.com/krityamsingh/krityamsingh/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00FFD1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Lives%20In-Varanasi%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Building%20Something%20Cool-FFD700?style=for-the-badge&logoColor=black" />
 
 </div>
 
 ---
 
-<img align="right" alt="AI Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd5eG16emZiZnRzY3p4aGgwdXVoZW5hY2Z6Zm5mZGN6dWFpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🧠 About Me
+## 🧠 Who Am I?
 
-- 🎓 Student on a mission to master **AI & Deep Learning**
-- 🤖 Building intelligent systems with **Python** from scratch
-- 📊 Daily driver: **NumPy & Pandas** for data pipelines
-- 🧬 Training neural nets with **Keras & TensorFlow**
-- 🌐 Learning **JavaScript** to deploy AI to the web
-- 🔭 Always experimenting — breaking things and fixing them
-- 💡 *"Understand deeply, then build boldly"*
+```python
+class KrityamSingh:
+    def __init__(self):
+        self.name       = "Krityam Singh"
+        self.role       = "AI Developer & Student"
+        self.location   = "Varanasi, India 🇮🇳"
+        self.stack      = ["Python", "Keras", 
+                           "NumPy", "Pandas",
+                           "TensorFlow"]
+        self.learning   = ["JavaScript", "Deep Learning",
+                           "Computer Vision"]
+        self.building   = "Personal AI Projects"
+        self.goal       = "Deploy intelligent systems"
+    
+    def say_hi(self):
+        print("Let's build something that thinks! 🤖")
+
+me = KrityamSingh()
+me.say_hi()
+```
 
 <br clear="right"/>
 
@@ -31,57 +49,85 @@
 
 <div align="center">
 
-### 🛠️ Tech Arsenal
+## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,git,github,vscode,jupyter&perline=5&theme=dark" />
+<table>
+<tr>
+<td align="center" width="200">
+
+**🧠 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+
+</td>
+<td align="center" width="200">
+
+**🌐 Web (Learning)**
+
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-beginner-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+</td>
+<td align="center" width="200">
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 AI Learning Journey
+
+<div align="center">
+
+| Skill | Progress | Status |
+|-------|----------|--------|
+| 🐍 Python | `████████████████████` 100% | ✅ Mastered |
+| 📊 NumPy & Pandas | `████████████████░░░░` 80% | ✅ Actively Using |
+| 🧬 Keras & TensorFlow | `████████████░░░░░░░░` 60% | 🔄 In Progress |
+| 🧠 Deep Learning Theory | `█████████░░░░░░░░░░░` 45% | 🔄 Studying |
+| 👁️ Computer Vision | `██████░░░░░░░░░░░░░░` 30% | 🔄 Exploring |
+| 🌐 JavaScript | `███░░░░░░░░░░░░░░░░░` 15% | 📖 Just Started |
+| 🚀 Deploy AI to Web | `█░░░░░░░░░░░░░░░░░░░` 5% | 🎯 Next Goal |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=krityamsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&ring_color=00FFD1&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krityamsingh&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=00FFD1" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krityamsingh&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=ffffff" width="36%" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+## 🏆 Trophy Case
 
-</div>
-
----
-
-### 📈 My Learning Path
-
-```
-██████████████████████████  Python Basics          ✅ Mastered
-█████████████████████░░░░░  NumPy & Pandas         ✅ Actively Using  
-████████████████░░░░░░░░░░  Keras / Deep Learning  🔄 In Progress
-██████████░░░░░░░░░░░░░░░░  Personal AI Projects   🔄 Building Now
-████░░░░░░░░░░░░░░░░░░░░░░  JavaScript             📖 Just Started
-██░░░░░░░░░░░░░░░░░░░░░░░░  Deploy AI to Web       🎯 Next Goal
-```
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=krityamsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krityamsingh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=krityamsingh&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krityamsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="40%" />
+## 📉 Contribution Graph
 
-<br/>
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=krityamsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-<br/>
-
-### 📉 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krityamsingh&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krityamsingh&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FF6B6B&area=true&hide_border=true&area_color=00FFD120" width="96%" />
 
 </div>
 
@@ -89,17 +135,22 @@
 
 <div align="center">
 
-### 🤝 Connect With Me
+## 🤝 Find Me
 
 <a href="mailto:krityamsingh100@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-krityamsingh100-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://t.me/Unrealrajput">
   <img src="https://img.shields.io/badge/Telegram-@Unrealrajput-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&fontSize=20&fontColor=fff&text=Keep%20Building.%20Keep%20Learning.%20🚀" width="100%"/>
 
 </div>
