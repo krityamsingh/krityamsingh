@@ -37,19 +37,6 @@ I'm a student from 🇮🇳 Varanasi, India — obsessed with **Artificial Intel
 
 ---
 
-### 🚀 What I'm Currently Working On
-
-```
-📁 Personal AI Projects
- ├── 🤖 FUBUKI          — Python AI project
- ├── 🔧 massxtony        — Python automation
- ├── 👥 rajput-management — Python management system
- ├── 📺 yt-api-maker     — YouTube API tool in Python
- └── 🌐 enhanceai.art    — AI web project
-```
-
----
-
 ### 📈 My Learning Path
 
 ```
