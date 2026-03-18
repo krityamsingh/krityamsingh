@@ -6,7 +6,7 @@
 
 <br/>
 
-![Snake animation](https://github.com/krityamsingh/krityamsingh/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://profile-counter.glitch.me/krityamsingh/count.svg" />
 
 <br/>
 
