@@ -1,385 +1,100 @@
-<!-- =========================================================
-     KRITYAM SINGH — GITHUB PROFILE README
-     AI × CYBERPUNK × KALI LINUX
-========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:0d1b2a,100:00ffd1&text=KRITYAM%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Kali%20Linux%20User&descAlignY=59&descSize=18&animation=fadeIn" alt="Krityam Singh header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:050816,50:0a1628,100:1e6fff&text=KRITYAM%20SINGH&fontSize=52&fontColor=ffffff&fontAlignY=37&desc=AI%20%26%20ML%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=19&animation=fadeIn" alt="Krityam Singh — AI and ML student, software developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=800&color=00FFD1&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+Deep+Learning+%26+Computer+Vision+%F0%9F%A7%A0;Python+%E2%80%A2+TensorFlow+%E2%80%A2+Keras+%E2%80%A2+NumPy+%E2%80%A2+Pandas;Turning+Ideas+Into+Working+AI+Projects+%E2%9A%A1" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications;Exploring+AI+agents+and+machine+learning;Engineering+ideas+into+working+software" alt="Building AI-powered applications, exploring AI agents and machine learning" />
 
-<br/>
+[![Repositories](https://img.shields.io/badge/Repositories-0a1628?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/krityamsingh?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/PROJECT%20STARK-1e6fff?style=for-the-badge&logo=react&logoColor=white)](https://github.com/krityamsingh/krityam-project-stark-portfolio)
+[![Email](https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krityamsingh100@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0a1628?style=for-the-badge&logo=telegram&logoColor=58a6ff)](https://t.me/Unrealrajput)
 
-<a href="mailto:krityamsingh100@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://t.me/Unrealrajput">
-  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://github.com/krityamsingh?tab=followers">
-  <img src="https://img.shields.io/github/followers/krityamsingh?style=for-the-badge&logo=github&label=FOLLOWERS&color=00FFD1&labelColor=0D1117" alt="GitHub followers" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=krityamsingh&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge" alt="Profile views" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-00FFD1?style=flat-square&labelColor=0D1117" alt="Artificial Intelligence" />
-<img src="https://img.shields.io/badge/OS-KALI%20LINUX-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-FFD700?style=flat-square&labelColor=0D1117" alt="Building and learning" />
+**Open to remote internships, open-source collaboration and AI engineering opportunities.**
 
 </div>
 
 ---
 
-## `> whoami`
+## 01 / About me
 
-<img align="right" width="385" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+I'm an Artificial Intelligence and Machine Learning student in India, building software at the intersection of AI, automation and web development. I enjoy turning ideas into prototypes, working through technical problems and iterating on real applications.
 
-```python
-class KrityamSingh:
-    def __init__(self):
-        self.name = "Krityam Singh"
-        self.role = "AI Developer & Student"
-        self.location = "Varanasi, India 🇮🇳"
-        self.os = "Kali Linux 🐉"
+- **Building:** AI applications, agent-based workflows and video automation tools.
+- **Learning:** Machine learning, deep learning, computer vision, NLP and AI system design.
+- **Developing:** Python backends, APIs, responsive web interfaces and deployment workflows.
+- **Environment:** Linux, Git, Docker and AI-assisted development tools.
 
-        self.stack = [
-            "Python",
-            "TensorFlow",
-            "Keras",
-            "NumPy",
-            "Pandas",
-            "Scikit-Learn",
-        ]
+## 02 / Selected projects
 
-        self.exploring = [
-            "Deep Learning",
-            "Computer Vision",
-            "JavaScript",
-            "AI Deployment",
-        ]
+| Project | Engineering focus | Status |
+| :--- | :--- | :--- |
+| [**Genesis**](https://github.com/krityamsingh/Genesis) | AI platform prototype with model routing, agent workflows, connected memory and a FastAPI / React architecture. | In development |
+| [**AI-Clipping**](https://github.com/krityamsingh/AI-Clipping) | Local, agent-assisted video editing workflows using transcription, highlight analysis, edit plans, captions and rendering. | In development |
+| [**PROJECT STARK**](https://github.com/krityamsingh/krityam-project-stark-portfolio) | Cinematic personal portfolio using React, TypeScript, Vite and Three.js. | In development |
+| [**Genesis AI**](https://github.com/krityamsingh/genesis-ai) | AI application experiments with a Python backend, React frontend and Jupyter notebooks. | Experimental |
 
-        self.current_mission = (
-            "Turn AI concepts into useful, working systems."
-        )
+> These are evolving projects and prototypes, not claims of production readiness.
 
-    def mindset(self):
-        return "Learn → Build → Break → Debug → Improve → Repeat ⚡"
-
-
-me = KrityamSingh()
-print(me.mindset())
-```
-
-<br clear="right"/>
-
----
-
-## 🧬 About Me
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  NAME       : Krityam Singh                              │
-│  ROLE       : AI Developer & Student                     │
-│  LOCATION   : Varanasi, India 🇮🇳                         │
-│  OS         : Kali Linux 🐉                               │
-│  FOCUS      : Artificial Intelligence                    │
-│  EXPLORING  : Deep Learning + Computer Vision            │
-│  BUILDING   : AI experiments, tools and systems          │
-│  MISSION    : Convert ideas into intelligent software    │
-└──────────────────────────────────────────────────────────┘
-```
-
-- 🧠 Focused on **Artificial Intelligence & Machine Learning**
-- 🐍 Building primarily with **Python**
-- 🔬 Exploring **Deep Learning** and **Computer Vision**
-- 📊 Working with **NumPy, Pandas, TensorFlow, Keras and Scikit-Learn**
-- 🌐 Learning how to bring AI systems to the **web**
-- 🐉 Daily-driving **Kali Linux**
-- ⚙️ Learning by building real projects instead of only reading theory
-- 🚀 Goal: build and deploy intelligent systems that solve useful problems
-
----
-
-## 🎯 Current Mission
+## 03 / Technology stack
 
 <div align="center">
 
-| Mission | State |
-| :--- | :---: |
-| 🧠 Strengthen Deep Learning fundamentals | `IN PROGRESS` |
-| 👁️ Build Computer Vision projects | `EXPLORING` |
-| 🌐 Improve JavaScript & web skills | `LEARNING` |
-| 🚀 Deploy AI applications | `NEXT TARGET` |
-| 🛠️ Build useful public AI tools | `BUILDING` |
-
-</div>
-
----
-
-## ⚡ Technology Arsenal
-
-<div align="center">
-
-### 🧠 AI / Machine Learning
+**AI, machine learning & data**
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="Python and TensorFlow" />
 
-<br/>
+![Keras](https://img.shields.io/badge/Keras-0a1628?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0a1628?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0a1628?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a1628?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a1628?style=flat-square&logo=jupyter&logoColor=white)
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+**Web & application development**
 
-### 🌐 Web
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,threejs,fastapi&theme=dark&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Three.js and FastAPI" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />
+**Developer tools & deployment**
 
-### ⚙️ Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vercel&theme=dark" alt="Git, GitHub, Linux, Docker, VS Code and Vercel" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0a1628?style=flat-square&logo=kalilinux&logoColor=58a6ff)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0a1628?style=flat-square&logo=ffmpeg&logoColor=white)
 
 </div>
 
----
+Technologies above reflect project experience and ongoing learning, rather than proficiency certifications.
 
-## 🧠 Skill Matrix
+## 04 / Current focus
 
-```text
-Python                 ██████████████████░░   Main Language
-NumPy / Pandas         ████████████████░░░░   Active Use
-Machine Learning       ██████████████░░░░░░   Building
-TensorFlow / Keras     ████████████░░░░░░░░   Growing
-Deep Learning          ██████████░░░░░░░░░░   Learning
-Computer Vision        ███████░░░░░░░░░░░░░   Exploring
-JavaScript             █████░░░░░░░░░░░░░░░   Learning
-AI Deployment          ███░░░░░░░░░░░░░░░░░   Next Focus
-```
-
-> **The goal is not to collect technologies. The goal is to understand them well enough to build something useful.**
-
----
-
-## ⚙️ How I Build
-
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[🔎 Research]
-    B --> C[🧠 Prototype]
-    C --> D[🐍 Build]
-    D --> E[🧪 Test]
-    E --> F[🚀 Deploy]
-    F --> G[📈 Improve]
-    G --> A
-```
-
----
-
-## 🚀 Project Laboratory
-
-<div align="center">
-
-### `BUILD → TEST → SHIP → IMPROVE`
-
-</div>
-
-I use GitHub as my engineering laboratory — experimenting with AI, automation, machine learning and software ideas instead of keeping everything inside notebooks.
-
-| Area | What I'm Exploring |
+| Area | Direction |
 | :--- | :--- |
-| 🤖 **Artificial Intelligence** | Intelligent applications and AI-powered tools |
-| 🧠 **Deep Learning** | Neural networks and model experimentation |
-| 👁️ **Computer Vision** | Image understanding and vision-based systems |
-| 📊 **Data** | NumPy, Pandas, preprocessing and experimentation |
-| 🌐 **AI + Web** | Turning models into usable web applications |
-| ⚙️ **Developer Tools** | Automation and productivity projects |
-| 🐉 **Linux** | Kali Linux workflows and development |
+| AI engineering | Agent orchestration, model integration, retrieval and evaluation |
+| Machine learning | Data preprocessing, supervised learning, model training and evaluation |
+| Full-stack development | API integration, application architecture and responsive interfaces |
+| Video automation | Transcription, highlight selection, editing plans and media processing |
+| Software engineering | Testing, debugging, documentation, version control and deployment |
+
+## 05 / GitHub activity
 
 <div align="center">
 
-<a href="https://github.com/krityamsingh?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1" alt="Explore repositories" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krityamsingh&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=krityamsingh&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krityamsingh&bg_color=0a1628&color=58a6ff&line=1e6fff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+[![Followers](https://img.shields.io/github/followers/krityamsingh?style=flat-square&logo=github&label=Followers&color=1e6fff)](https://github.com/krityamsingh?tab=followers)
 
 </div>
 
----
+## 06 / Let's connect
 
-## 🧪 Engineering Philosophy
+I'm interested in opportunities involving AI/ML, Python development, AI agents, software engineering and full-stack applications. Explore my repositories, open an issue on a project or reach out through my existing contact links.
 
 <div align="center">
 
-```text
-                         ┌───────────┐
-                         │   IDEA    │
-                         └─────┬─────┘
-                               ↓
-                     ┌─────────────────┐
-                     │    PROTOTYPE    │
-                     └────────┬────────┘
-                              ↓
-              ┌────────────────────────────┐
-              │    BUILD SOMETHING REAL    │
-              └──────────────┬─────────────┘
-                             ↓
-                       ┌──────────┐
-                       │   FAIL   │
-                       └────┬─────┘
-                            ↓
-                       ┌──────────┐
-                       │  LEARN   │
-                       └────┬─────┘
-                            ↓
-                       ┌──────────┐
-                       │ IMPROVE  │
-                       └────┬─────┘
-                            │
-                            └──────────────↺
-```
+**Research. Build. Test. Improve. Repeat.**
 
-### `The fastest way to understand technology is to build with it.`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:050816,50:0a1628,100:1e6fff&section=footer" alt="" />
 
 </div>
-
----
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krityamsingh&show_icons=true&hide_border=true&theme=transparent&title_color=00FFD1&text_color=C9D1D9&icon_color=00FFD1&ring_color=00FFD1&include_all_commits=true" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=krityamsingh&theme=transparent&hide_border=true&ring=00FFD1&fire=FF4D6D&currStreakLabel=00FFD1&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krityamsingh&layout=compact&hide_border=true&theme=transparent&title_color=00FFD1&text_color=C9D1D9" alt="Top languages" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krityamsingh&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=krityamsingh&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 🗺️ AI Engineer Roadmap
-
-```text
-                         KRITYAM'S AI ROADMAP
-
-       Python
-         │
-         ▼
- NumPy + Pandas
-         │
-         ▼
-Machine Learning
-         │
-         ▼
- TensorFlow / Keras
-         │
-         ▼
-   Deep Learning
-         │
-         ├───────────────┐
-         ▼               ▼
- Computer Vision       NLP / LLMs
-         │               │
-         └───────┬───────┘
-                 ▼
-          AI Applications
-                 │
-                 ▼
-        APIs + Web Deployment
-                 │
-                 ▼
-         Production AI Systems
-```
-
----
-
-## 💻 Developer Console
-
-```bash
-$ whoami
-krityam
-
-$ cat focus.txt
-Artificial Intelligence
-Deep Learning
-Computer Vision
-Open Source
-AI Engineering
-
-$ cat mindset.txt
-Learn.
-Build.
-Break.
-Debug.
-Improve.
-Repeat.
-
-$ ./future.sh
-Building something intelligent... 🤖
-```
-
----
-
-## 💭 Developer Thought
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### Interested in AI, engineering or building cool things?
-
-<br/>
-
-<a href="mailto:krityamsingh100@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://t.me/Unrealrajput">
-  <img src="https://img.shields.io/badge/Telegram-@Unrealrajput-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://github.com/krityamsingh">
-  <img src="https://img.shields.io/badge/GitHub-krityamsingh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-### ⚡ `Learning today. Building tomorrow. Shipping continuously.`
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050816,45:0d1b2a,100:00ffd1&section=footer&text=KEEP%20BUILDING%20%E2%9A%A1&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" alt="Keep building" />
